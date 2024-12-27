@@ -11,7 +11,7 @@ export default function Page() {
 	// 		   Make sure to include a cleanup function that clears the interval!
 	return (
 		<div className="card flex flex-col gap-4 w-[40em] items-start">
-			<h1 className="w-full text-3xl text-center">useState Hook</h1>
+			<h1 className="w-full text-3xl text-center">useEffect Hook</h1>
 			
 			{/* TODO 2: Insert count into the <h1> below */}
 			<h1 className="text-2xl">Count: {}</h1>
